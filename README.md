@@ -22,6 +22,10 @@ This tool splits an audio file into smaller chunks based on silence detection. I
     ```
 
 2. Ensure `ffmpeg` or `libav` is installed on your system. You can download `ffmpeg` from [here](https://ffmpeg.org/download.html).
+3. ffmpeg for mac
+   ```bash
+    brew install ffmpeg
+    ```
 
 ## Usage
 
